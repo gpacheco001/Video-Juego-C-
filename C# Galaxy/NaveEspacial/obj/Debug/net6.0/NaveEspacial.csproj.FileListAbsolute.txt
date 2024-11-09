@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\bin\Debug\net6.0\NaveEspacial.exe
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\bin\Debug\net6.0\NaveEspacial.deps.json
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\bin\Debug\net6.0\NaveEspacial.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\bin\Debug\net6.0\NaveEspacial.dll
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\bin\Debug\net6.0\NaveEspacial.pdb
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.dll
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\refint\NaveEspacial.dll
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.pdb
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\NaveEspacial.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\Programacion\C# Galaxy\NaveEspacial\obj\Debug\net6.0\ref\NaveEspacial.dll
